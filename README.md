@@ -1,4 +1,5 @@
-# Hi 👋, I'm Minsu!
+<!-- # Hi 👋, I'm Minsu! -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=d9efcb&fontColor=363636&text=MinsuChoi)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinker1002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
