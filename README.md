@@ -1,5 +1,5 @@
 <!-- # Hi 👋, I'm Minsu! -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=120)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinker1002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
