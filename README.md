@@ -1,13 +1,11 @@
 <!-- # Hi 👋, I'm Minsu! -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45  width="200" height="400"/>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true){: width="100" height="100"}
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinker1002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinker1002&layout=compact)](https://github.com/anuraghazra/github-readme-stats){: width="100" height="100"}
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinker1002&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
