@@ -1,6 +1,7 @@
 <!-- # Hi 👋, I'm Minsu! -->
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45)
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true)
 
 <h1>🛠Skills🛠</h1>
@@ -37,5 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</div>
