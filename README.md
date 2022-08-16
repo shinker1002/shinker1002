@@ -14,9 +14,7 @@
     </tr>
 </table>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinker1002&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" width="100" height="30"></img>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinker1002&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinker1002&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" width="150" height="30"></img>
 
 <h1> 🛠Skills🛠 </h1>
 <h3>📋 Languages</h3>
@@ -48,6 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true.png" width="490" height="195">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinker1002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinker1002&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
