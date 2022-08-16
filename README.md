@@ -1,9 +1,9 @@
 <!-- # Hi 👋, I'm Minsu! -->
-(https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45)
-<div align="center">
-</div>
-(https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true)
+
+<div align="center">
 <h1>🛠Skills🛠</h1>
 
 ### 📋 Languages
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
