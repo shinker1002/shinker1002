@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45)
 
-<img src="https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true.png" width="YOUR_WIDTH" height="YOUR_HEIGHT">
+<img src="https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true.png" width="200" height="100">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true)
 
