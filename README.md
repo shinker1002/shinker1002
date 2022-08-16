@@ -4,12 +4,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45)
 
 <table style="border: none">
-    <tr style="border: none">
+    <tr>
         <td valign="top" width="50%" style="border: none">
-          <img src="https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true.png" alt="shinker1002" width="490" height="195">
+          <img src="https://github-readme-stats.vercel.app/api?username=shinker1002&count_private=true&show_icons=true.png" alt="shinker1002" width="490" height="210">
         </td>
         <td valign="top" width="50%" style="border: none">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinker1002&layout=compact" alt="shinker1002" width="490" height="195"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinker1002&layout=compact" alt="shinker1002" width="490" height="210"/>
         </td>
     </tr>
 </table>
