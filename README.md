@@ -1,7 +1,7 @@
 <!-- # Hi 👋, I'm Minsu! -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=50bcdf&fontColor=363636&text=MinsuChoi&height=300&fontSize=110&fontAlignY=45)
 
 <table style="border: none">
     <tr>
