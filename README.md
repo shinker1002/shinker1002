@@ -26,8 +26,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
-<h4>📝 Blog</h4>
-
+<h4>📝 ME</h4>
+<p align="center">
+  <a href="https://www.notion.so/f2096d686014483b9980628525ec4dc1"><img src="https://img.shields.io/badge/TIL-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://www.notion.so/f2096d686014483b9980628525ec4dc1"/></a>&nbsp
+  <a href="mailto:shinker98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=shinker98@naver.com"/></a>
+</p>
 
 </div>
 
